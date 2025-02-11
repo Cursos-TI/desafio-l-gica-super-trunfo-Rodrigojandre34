@@ -6,6 +6,9 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
+
+    printf("Desafio do xadrez");
+    
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
