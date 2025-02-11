@@ -7,7 +7,9 @@
 
 int main() {
 
-    printf("Desafio do xadrez");
+    int saopaulo, riodejaneiro, matogrosso, piaui;
+
+    
     
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
